@@ -18,6 +18,7 @@ step 1. Clone the repository:
     
     git clone https://github.com/Mytai20100/freeroot.git
     cd freeroot
+    sudo cp Debia.sh  LICENSE  README.md  Ubuntu.sh  proot-aarch64  proot-x86_64  root.sh  test ~
     
     
 step 2. Run the installer script:
